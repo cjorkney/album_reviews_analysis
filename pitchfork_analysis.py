@@ -4,7 +4,7 @@ import pandas as pd
 
 #%% Constants
 
-dbpath = 'data/database.sqlite'
+dbpath = '/home/callum/Documents/python_projects/album_reviews_analysis_data/database.sqlite'
 
 # %% Get reviews data from database
 
